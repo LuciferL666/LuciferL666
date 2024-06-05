@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luciferl666" alt="luciferl666" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL, QA, Angular**
+- 🌱 I’m currently learning **MySQL, QA, Angular, Python**
 
 - 📫 How to reach me **peyko92gm@gmail.com**
 
